@@ -5,4 +5,4 @@ The data is from the 2019 [StackOverflow](https://insights.stackoverflow.com/sur
 
 This analysis looks at UK users who use Python and are employed full time. 
 
-The analysis was done using Python in Jupyter Notebooks. The code cell toggle was done using JavaScript provided by [csaid](github.com/csaid).
+The analysis was done using Python in Jupyter Notebooks. The code cell toggle was done using JavaScript provided by [csaid via GitHub](https://github.com/csaid/polished_notebooks).
